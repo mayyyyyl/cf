@@ -20,3 +20,11 @@ h
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+j
+:src/main/java/org/ss/orchestre/proposition/Instrument.java,4\a\4a0ab8e1f1d71ddc7ccf2c4fe093071404b13538
+e
+5src/main/java/org/ss/orchestre/proposition/Piano.java,7\a\7a26f51d4705e1455f159e7689e5db1be3bed171
+f
+6src/main/java/org/ss/orchestre/proposition/Violon.java,5\b\5b490d218ebf7042256ef87a3164214506313c36
+h
+8src/main/java/org/ss/orchestre/proposition/Musicien.java,a\3\a305804233aa8ad37644f0183cf0f8352a871072
