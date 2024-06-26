@@ -28,3 +28,13 @@ f
 6src/main/java/org/ss/orchestre/proposition/Violon.java,5\b\5b490d218ebf7042256ef87a3164214506313c36
 h
 8src/main/java/org/ss/orchestre/proposition/Musicien.java,a\3\a305804233aa8ad37644f0183cf0f8352a871072
+c
+3src/main/java/org/ss/orchestre/proposition/App.java,e\7\e75a4baac7ba42156f745b119611bba979569d0f
+h
+8src/main/java/org/ss/orchestre/proposition/Batterie.java,d\f\df03297aa5ed45255078b819e563dea4f74687b3
+i
+9src/main/java/org/ss/orchestre/proposition/Orchestre.java,8\f\8f461fb8885d63b8fcc6862803c4ffdedcfca673
+]
+-.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
+S
+#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
